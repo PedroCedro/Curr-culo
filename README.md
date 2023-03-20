@@ -1,2 +1,2 @@
-# Curr-culo
-Projetos pessoais para currículo
+# Currículo
+Este repositório contém projetos pessoais para amostra em currículo
